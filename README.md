@@ -32,7 +32,8 @@ Text extraction from the image
 Text displayed on the screen
 
 Oucome Depiction:
-Input Image-
+
+Input Image 1-
 <img width="1280" height="566" alt="image" src="https://github.com/user-attachments/assets/0a2087d8-6541-4abd-87e6-f013f06cbde2" />
 
 Extracted Text Output-
