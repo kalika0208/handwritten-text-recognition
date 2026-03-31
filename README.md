@@ -36,6 +36,7 @@ Input Image-
 <img width="1280" height="566" alt="image" src="https://github.com/user-attachments/assets/0a2087d8-6541-4abd-87e6-f013f06cbde2" />
 
 Extracted Text Output-
+
 <img width="525" height="240" alt="image" src="https://github.com/user-attachments/assets/88c8bab6-7a7c-4faa-8527-6597fca09d97" />
 
 Improved Text Output After Preprocessing-
