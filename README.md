@@ -34,8 +34,10 @@ Text displayed on the screen
 Oucome Depiction:
 Input Image-
 <img width="1280" height="566" alt="image" src="https://github.com/user-attachments/assets/0a2087d8-6541-4abd-87e6-f013f06cbde2" />
+
 Extracted Text Output-
 <img width="525" height="240" alt="image" src="https://github.com/user-attachments/assets/88c8bab6-7a7c-4faa-8527-6597fca09d97" />
+
 Improved Text Output After Preprocessing-
 <img width="713" height="359" alt="image" src="https://github.com/user-attachments/assets/9e0e6681-d638-4238-a46a-36e4b9c0845f" />
 
